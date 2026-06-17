@@ -7,3 +7,4 @@ A collection of prompts for benchmarking coding agents. Each prompt defines a se
 | Name | Description | Link |
 |------|-------------|------|
 | BenzoApp | Web app to find the cheapest petrol stations in Italy using an interactive OpenStreetMap | [benzo_app.md](prompts/benzo_app/benzo_app.md) |
+| LLM Timeline | Web app to visualize LLMs releases | [llm_timeline.md](prompts/llm_timeline/llm_timeline.md)  |
